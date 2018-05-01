@@ -1,0 +1,42 @@
+a {
+	border-bottom: 2px solid #fffff0;
+	color: #ffffff;
+	text-decoration: none;
+}
+
+body {
+	background-color: #202028;
+	color: #fffff0;
+	font-family: "Droid Serif", serif;
+	font-size: 30px;
+	letter-spacing: 1px;
+	line-height: 2em;
+	margin: 0;
+}
+
+#description p {
+	margin: 0;
+	padding: 1em;
+	text-indent: 1.5em;
+}
+
+html {
+	overflow: auto;
+}
+
+#image {
+	background-color: #000000;
+	text-align: center;
+}
+
+img {
+	cursor: pointer;
+}
+
+li + li {
+	padding-top: 1em;
+}
+
+ul {
+	margin: 0;
+}
